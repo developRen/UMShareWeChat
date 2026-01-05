@@ -45,7 +45,7 @@ TODO: Add long description of the pod here.
   s.dependency 'UMCommon'
   s.dependency 'UMDevice' 
   s.dependency 'UMShare/UI'
-  s.dependency 'UMAPM'
+  # s.dependency 'UMAPM'
   s.dependency 'UMCCommonLog'
   s.dependency 'WechatOpenSDK'
 end
